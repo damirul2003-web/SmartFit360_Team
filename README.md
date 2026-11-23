@@ -30,9 +30,14 @@ Browse the [artefact index](docs/artefact-index.md) for individual files and the
 [repository setup checklist](docs/repository-setup.md) for access, review and
 coursework evidence still to confirm.
 
-Thirteen unchanged files from the 15-file supplied archive are included. Two
-documents are held for a team decision because they conflict with the current
-coursework's hardware plan or budget; see the artefact index for details.
+All 15 artefacts from the supplied archive are included. Thirteen are unchanged;
+the technical report and workflow PDF were revised on 23 November 2026 to match
+the current coursework hardware plan, stack and LKR 91,600 budget. See the
+artefact index for the revision record.
+
+The [team task list](docs/team-tasks.md) links eight open GitHub issues with
+acceptance criteria. Tasks with confirmed responsibilities are assigned; the
+team must agree owners for the remaining implementation tasks.
 
 ## Version control
 

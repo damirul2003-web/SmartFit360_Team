@@ -4,14 +4,16 @@ Repository: [damirul2003-web/SmartFit360_Team](https://github.com/damirul2003-we
 
 The repository was verified as public and empty on 23 November 2026 before this
 setup was prepared. The supplied archive contains 15 documents, images and a
-presentation in five member folders. Thirteen unchanged artefacts are included;
-two conflicting files are held locally as described in the [artefact index](artefact-index.md).
+presentation in five member folders. All 15 are included: 13 unchanged artefacts
+and two revised documents as described in the [artefact index](artefact-index.md).
 Importing that snapshot establishes an
 import record; it does not establish the original author or date of each file.
 
 ## Owner setup checklist
 
 - [x] Publish and check the initial artefact import on `main`.
+- [x] Revise and publish the two held documents after Sachith's decision.
+- [x] Create eight open issues with acceptance criteria and confirmed task assignments.
 - [ ] Review the contribution guide and templates through a task branch and PR.
 - [ ] Confirm each member's GitHub username, accepted invitation and write access.
 - [ ] Confirm the supervisor's identity and required access with the team.
@@ -52,6 +54,12 @@ The remote default branch was checked as `main` after publication on
 23 November 2026. The import and repository setup were prepared with OpenAI
 Codex assistance. They do not represent individual team members' later work or
 a teammate review.
+
+The two held documents were revised before publication following Sachith's
+instruction. The current Git authentication has repository write access but
+does not have administration rights. Owner-only access and branch settings
+remain tracked in [issue 2](https://github.com/damirul2003-web/SmartFit360_Team/issues/2).
+See the [team task list](team-tasks.md) for all eight live issues.
 
 ## Evidence to retain
 
