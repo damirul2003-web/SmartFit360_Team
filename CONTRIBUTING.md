@@ -24,6 +24,14 @@ Ask another teammate to check correctness, consistency with the agreed scope, re
 
 The repository owner should configure `main` protection and required review where the repository's GitHub features permit it. Until settings are verified, follow the same team review rule manually; do not describe protection or checks as enabled merely because this guide proposes them. Confirm member access and the supervisor's required access separately.
 
+The proposed [CODEOWNERS file](.github/CODEOWNERS) routes folder reviews to
+confirmed collaborators and the repository owner. It records review responsibility,
+not original authorship. Thisen's routing must be updated after the invitation is
+accepted and write access is checked. Review requests use the CODEOWNERS file on
+the pull request's base branch; this proposal takes effect after it is merged.
+It does not enable a required-review rule by itself. See GitHub's
+[code owner documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners).
+
 ## Code and tests
 
 - **Python:** clear names, small functions or services, useful type hints and separate tests. Record a compatible environment and dependency versions.
